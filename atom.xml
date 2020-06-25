@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ylinbl.github.io</id>
     <title>雨林bl</title>
-    <updated>2020-06-20T02:07:43.381Z</updated>
+    <updated>2020-06-25T13:39:52.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ylinbl.github.io"/>
     <link rel="self" href="https://ylinbl.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://ylinbl.github.io/images/avatar.png</logo>
     <icon>https://ylinbl.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 雨林bl</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://ylinbl.github.io/post/hello-world/</id>
+        <link href="https://ylinbl.github.io/post/hello-world/">
+        </link>
+        <updated>2020-06-25T13:11:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>😜 建立这个博客也有一段时间了，但一直没有动手添加一些内容。<br>
+最近一直感觉时间不够用，所以决定 自己尝试一下“三小时计划”，并且每天都做记录。并打算在一个月后开始把资料整理，发表。具体内容我会后期更新修改本文。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😜 建立这个博客也有一段时间了，但一直没有动手添加一些内容。<br>
+最近一直感觉时间不够用，所以决定 自己尝试一下“三小时计划”，并且每天都做记录。并打算在一个月后开始把资料整理，发表。具体内容我会后期更新修改本文。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://ylinbl.github.io/post-images/1593092185238.jpg" alt="" loading="lazy"></figure>
+<p>👉攝影師：ArtHouse Studio，連結：Pexels</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ylinbl.github.io/post/hello-gridea/</id>
